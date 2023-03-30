@@ -1,2 +1,3 @@
-# milk
-A graphics / game development library for C/C++
+# AllegroM
+
+Wrappers / tools for Allegro5
